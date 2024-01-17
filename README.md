@@ -1,0 +1,1 @@
+This project provides detailed information about all items within a sales company, enabling the insertion and deletion of items in the inventory. Additionally, the company generates bills for each customer and maintains records of preferred customers, granting them access to certain discounts.
